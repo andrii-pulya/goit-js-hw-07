@@ -16,4 +16,3 @@ function increment() {
     number += 1;
     counterValue.textContent = number;
 }
-
